@@ -1,0 +1,59 @@
+body {
+	font-family: Tahoma;
+}
+
+.row {
+	margin: 85px auto 20px auto;
+}
+
+.header {
+	font-size: 24px;
+	line-height: 1.5;
+	white-space: nowrap;
+}
+.header span {
+	display: block;
+}
+
+.header strong {
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+.video {
+	margin-bottom: 10px;
+}
+
+.form-header, .section-header{
+	font-size: 24px;
+	font-weight: 900;
+}
+.form {
+	border: solid 5px #2f25d0;
+	padding: 35px 20px;
+}
+.form-btn{
+	margin: 20px auto;
+	background-color: #2f25d0;
+}
+.form-input {
+	margin: 15px auto;
+}
+img {ё
+	margin-bottom: 20px;
+}
+
+img p {
+	margin-bottom: 100px;
+}
+
+.picture {
+	font-size: 16px;
+	font-weight: 600;
+}
+.clients h1 {
+	font-weight: 600;
+}
+
+
+
