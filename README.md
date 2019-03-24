@@ -1,4 +1,4 @@
 # Александр Крыжевников
 ## My homeworks
 ______________________________
-[Alexandr9233.github.io/less_8/less/](адрес "Урок 12")
+[Lesson 12](Alexandr9233.github.io/less_8/less/ "")
